@@ -1,4 +1,4 @@
-# Factland
+# Factland Profile
 
 ## What is Factland?
 
