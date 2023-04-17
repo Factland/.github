@@ -1,5 +1,3 @@
-# Factland Profile
-
 ## What is Factland?
 
 Factland is a new way to sort fact from fiction. It pops the social and information bubbles that prevent people with different beliefs from talking with each other online and forming a consensus on important issues of our time.
