@@ -36,3 +36,11 @@ You will have an opportunity to serve on a jury yourself and observe the process
 Factland distributes cryptocurrency tokens for betting and payment for other activities, such as serving on a jury and sharing evidence that is cited by a juror in issuing a verdict. These tokens currently have no market value but may in the future.
 
 All successful bets pay a dividend based on the size of the prize and the amount staked. Losing bets forfeit the tokens staked.
+
+## How does Factland use Web3 and Blockchain technlogy?
+
+Factland uses the Internet Computer Internet Identity to authorize users anonymously and securely and store Profile data.
+
+Factland uses the Internet Computer to construct and serve certified blockchain data which can be verified.
+
+Factland uses the Internet Computer secure and unpredictable random number capability to select random juries and uses the certified blockchain capability to record jury selections in a canister smart contract..
